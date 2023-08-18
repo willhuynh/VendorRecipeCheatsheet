@@ -1,4 +1,4 @@
-![Vendor Recipe Cheat Sheet](Vendor%20Recipe%20Cheatsheet%20V1.png)
+![Vendor Recipe Cheat Sheet](Vendor%20Recipe%20Cheatsheet.png)
 
 I will improve on this over time
 
